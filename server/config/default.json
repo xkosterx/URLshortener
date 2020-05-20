@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "MERNprojectKey",
+  "mongoUri": "mongodb+srv://xkosterx:1q2w3e4r@cluster0-epxp6.azure.mongodb.net/mern-db",
+  "baseUrl": "http://localhost:5000"
+}
